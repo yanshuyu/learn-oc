@@ -1,8 +1,8 @@
 //
 //  main.m
-//  01_variableDemo
+//  01_variable
 //
-//  Created by sy on 2019/3/18.
+//  Created by sy on 2019/3/27.
 //  Copyright © 2019 sy. All rights reserved.
 //
 

@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:08_protocol/08_protocol.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:07_NSObject/07_NSObject.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:01_variable/01_variable.xcodeproj">
    </FileRef>
    <FileRef

@@ -12,6 +12,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 @protocol Drivable <NSObject>
 
+@optional
+
+@required
 - (void) fireStar;
 - (void) speedUp: (float)toSpeed;
 - (void) slowDown: (float)toSpeed;

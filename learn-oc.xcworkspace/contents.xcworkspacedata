@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:10_KVO/10_KVO.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:09_block/09_block.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:08_protocol/08_protocol.xcodeproj">
    </FileRef>
    <FileRef
